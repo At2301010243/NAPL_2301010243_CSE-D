@@ -6,7 +6,7 @@ import (
 
 func main() {
 	// fmt.Println("go version go1.26.6 windows/amd64")
-	fmt.Println("Hello kamaljeet")
+	fmt.Println("Hello Avanish Thapliyal")
 	fmt.Println("Integer Operation")
 	a := 15
 	b := 4
